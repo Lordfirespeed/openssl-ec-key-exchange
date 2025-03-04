@@ -1,0 +1,13 @@
+# ignore everything
+/*
+
+# include specifically
+
+## important Git files
+!.gitmodules
+!.gitignore
+!.gitattributes
+!.git-blame-ignore-revs
+
+## sources
+!/main.sh
