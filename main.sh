@@ -1,3 +1,5 @@
+#!/usr/bin/env bash
+
 experiment="experiment"
 
 mkdir -p "$experiment"
