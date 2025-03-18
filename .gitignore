@@ -10,4 +10,5 @@
 !.git-blame-ignore-revs
 
 ## sources
-!/main.sh
+!/ecdsa.sh
+!/x25519.sh
