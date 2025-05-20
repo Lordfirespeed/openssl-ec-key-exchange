@@ -10,5 +10,6 @@
 !.git-blame-ignore-revs
 
 ## sources
+!/dh.sh
 !/ecdsa.sh
 !/x25519.sh
